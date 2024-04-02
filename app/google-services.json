@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411251346557",
+    "project_id": "ladhani-fc26d",
+    "storage_bucket": "ladhani-fc26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411251346557:android:3e63560c6f47730572b514",
+        "android_client_info": {
+          "package_name": "com.slim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknBxPuXYGe5F3HO6Z2AOPQlgOCEtY5tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
